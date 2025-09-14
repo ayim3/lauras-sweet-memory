@@ -71,7 +71,7 @@ const Letter = () => {
               </p>
               
               <p>
-                Você traz luz para os meus dias, e sua amizade é um presente que eu valorizo demais. 
+                Você traz luz para os meus dias, e ter você na minha vida é um presente que eu valorizo demais. 
                 Espero que possamos conversar e que você possa me perdoar.
               </p>
               
