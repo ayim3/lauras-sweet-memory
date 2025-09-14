@@ -72,7 +72,7 @@ const Letter = () => {
               
               <p>
                 Você traz luz para os meus dias, e ter você na minha vida é um presente que eu valorizo demais. 
-                Espero que possamos conversar e que você possa me perdoar.
+                Espero que você possa me perdoar.
               </p>
               
               <div className="text-center pt-4">
